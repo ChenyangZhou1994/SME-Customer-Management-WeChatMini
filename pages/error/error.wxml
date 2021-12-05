@@ -1,0 +1,5 @@
+<!--pages/error/error.wxml-->
+<text>pages/error/error.wxml</text>
+<view class="container">
+  服务器走丢了, 或功能暂未开发
+</view>

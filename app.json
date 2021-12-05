@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/checkinfo/checkinfo",
+    "pages/backtime/backtime",
+    "pages/checkall/checkall",
+    "pages/error/error",
+    "pages/edit/edit",
+    "pages/markethome/markethome",
+    "pages/userdetail/userdetail",
+    "pages/checkother/checkother"
+  ],
+  "window": {
+    "backgroundColor": "#f2f2f2",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "CRM系统及商城",
+    "navigationBarTextStyle": "black"
+  },
+    "tabBar": {
+      "color": "#dddddd",
+      "selectedColor": "#BF8600",
+      "backgroundColor": "#323232",
+      "borderStyle": "black",
+      "list": [
+        {
+          "pagePath": "pages/index/index",
+          "text": "首页",
+          "iconPath": "images/index_icon.png",
+          "selectedIconPath": "images/index_icon_active.png"
+        },
+        {
+          "pagePath": "pages/checkall/checkall",
+          "text": "公司",
+          "iconPath": "images/mine_icon.png",
+          "selectedIconPath": "images/mine_icon_active.png"
+        },
+        {
+          "pagePath": "pages/markethome/markethome",
+          "text": "商城",
+          "iconPath": "images/cart.png",
+          "selectedIconPath": "images/cart_active.png"
+        }
+      ]
+    },
+  "sitemapLocation": "sitemap.json"
+}

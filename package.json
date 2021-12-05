@@ -1,0 +1,22 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imuzcy/SME-Customer-Management-WeChatMini.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imuzcy/SME-Customer-Management-WeChatMini/issues"
+  },
+  "homepage": "https://github.com/imuzcy/SME-Customer-Management-WeChatMini#readme",
+  "dependencies": {
+    "@vant/weapp": "^1.9.2"
+  }
+}
